@@ -24,5 +24,8 @@
   "homepage": "https://github.com/newswim/phenomenon_webgl_demo#readme",
   "dependencies": {
     "phenomenon": "^1.1.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.0.1"
   }
 }
