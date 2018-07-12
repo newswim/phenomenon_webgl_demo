@@ -1,0 +1,25 @@
+{
+  "name": "phenomenon_demo",
+  "version": "1.0.0",
+  "description": "Trying on Phenomenon - a tiny WebGL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/newswim/phenomenon_webgl_demo.git"
+  },
+  "keywords": [
+    "webgl",
+    "node",
+    "parcel",
+    "phenomenon"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/phenomenon_webgl_demo/issues"
+  },
+  "homepage": "https://github.com/newswim/phenomenon_webgl_demo#readme"
+}
