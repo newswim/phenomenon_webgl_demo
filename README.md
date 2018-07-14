@@ -1,6 +1,6 @@
 # Phenomenon Demo
 
-This is just a copy of [this official demo](https://github.com/newswim/phenomenon_webgl_demo)
+This is just a copy of [this official demo](https://github.com/vaneenige/phenomenon/tree/master/demo)
 but I've created this as a sandbox that other's can easily fork if they want.
 
 ## Setup
